@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:turn_page_transition/turn_page_transition.dart';
 import 'package:assets_audio_player/assets_audio_player.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
+// import 'package:firebase_core/firebase_core.dart';
 
 void main() {
   runApp(const MyApp());

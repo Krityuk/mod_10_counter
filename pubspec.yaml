@@ -39,6 +39,7 @@ dependencies:
   turn_page_transition: ^0.2.0
   assets_audio_player: ^3.0.6
   animated_text_kit: ^4.2.2
+  firebase_core: ^2.10.0
 
 dev_dependencies:
   flutter_test:
